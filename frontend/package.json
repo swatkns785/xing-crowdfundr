@@ -1,9 +1,9 @@
 {
-  "name": "XING-BASE",
-  "version": "1.0.0-beta",
-  "repository": "git@github.com:XingFramework/xing-application-base.git",
-  "author": "Logical Reality Design",
-  "homepage": "http://lrdesign.com",
+  "name": "Crowdfundr",
+  "version": "0.0.1",
+  "repository": "tbd",
+  "author": "Fergus McGillicuddy",
+  "homepage": "http://mcmuffins.com",
   "scripts": {
     "test": "grunt test"
   },
